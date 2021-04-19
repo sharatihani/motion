@@ -12,8 +12,8 @@ I was inspired by one of the examples from the Book of Shaders chapter (https://
 ## Gallery 
 
 <p align="center">
-![motion1](motion_assignment/bin/data/motion_1.png)
-![motion2](motion_assignment/bin/data/motion_2.png 
-![motion3](motion_assignment/bin/data/motion_3.png)
-![motion4](motion_assignment/bin/data/motion_4.png)
+  <img src="motion_assignment/bin/data/motion_1.png" width="350" title="motion1">
+  <img src="motion_assignment/bin/data/motion_2.png" width="350" title="motion2">
+  <img src="motion_assignment/bin/data/motion_3.png" width="350" title="motion3">
+  <img src="motion_assignment/bin/data/motion_4.png" width="350" title="motion4">
 </p>
