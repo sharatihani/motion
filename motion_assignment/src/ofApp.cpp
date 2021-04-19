@@ -6,12 +6,7 @@ void ofApp::setup() {
     
     ofBackground(0,0,0);
 
- 
     ofSetFrameRate(60);
-//    ofSetWindowTitle("openframeworks");
- 
-
-//    ofEnableBlendMode(ofBlendMode::OF_BLENDMODE_MULTIPLY);
     
     rectColor = ofColor:: orange;
     drawColor = rectColor;
@@ -80,7 +75,8 @@ void ofApp::draw() {
     ofSetLineWidth(3);
     ofNoFill();
     
- 
+    // ic: https://github.com/junkiyoshi/Insta20200715
+    
     vector<ofColor> color_list = {drawColor, drawCircleColor};
     for (int i = 0; i < floatSlider2; i++) {
  
